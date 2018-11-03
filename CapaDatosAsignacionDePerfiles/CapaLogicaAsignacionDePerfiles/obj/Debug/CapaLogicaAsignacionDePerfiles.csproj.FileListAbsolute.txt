@@ -1,0 +1,27 @@
+c:\users\vhjim\documents\visual studio 2015\Projects\CapaDatosAsignacionDePerfiles\CapaLogicaAsignacionDePerfiles\bin\Debug\CapaLogicaAsignacionDePerfiles.dll
+c:\users\vhjim\documents\visual studio 2015\Projects\CapaDatosAsignacionDePerfiles\CapaLogicaAsignacionDePerfiles\bin\Debug\CapaLogicaAsignacionDePerfiles.pdb
+c:\users\vhjim\documents\visual studio 2015\Projects\CapaDatosAsignacionDePerfiles\CapaLogicaAsignacionDePerfiles\obj\Debug\CapaLogicaAsignacionDePerfiles.dll
+c:\users\vhjim\documents\visual studio 2015\Projects\CapaDatosAsignacionDePerfiles\CapaLogicaAsignacionDePerfiles\obj\Debug\CapaLogicaAsignacionDePerfiles.pdb
+c:\users\vhjim\documents\visual studio 2015\Projects\CapaDatosAsignacionDePerfiles\CapaLogicaAsignacionDePerfiles\bin\Debug\CapaDatosAsignacionDePerfiles.dll
+c:\users\vhjim\documents\visual studio 2015\Projects\CapaDatosAsignacionDePerfiles\CapaLogicaAsignacionDePerfiles\bin\Debug\RetornoCadenaDeConexion.dll
+c:\users\vhjim\documents\visual studio 2015\Projects\CapaDatosAsignacionDePerfiles\CapaLogicaAsignacionDePerfiles\bin\Debug\CapaDatosAsignacionDePerfiles.pdb
+c:\users\vhjim\documents\visual studio 2015\Projects\CapaDatosAsignacionDePerfiles\CapaLogicaAsignacionDePerfiles\bin\Debug\RetornoCadenaDeConexion.pdb
+c:\users\vhjim\documents\visual studio 2015\Projects\CapaDatosAsignacionDePerfiles\CapaLogicaAsignacionDePerfiles\obj\Debug\CapaLogicaAsignacionDePerfiles.csprojResolveAssemblyReference.cache
+D:\Valery\Documents\Universidad\Analisis\Fase 2\SEGURIDAD\New folder\Seguridad Estandares\Seguridad Estandares\CapaDatosAsignacionDePerfiles\CapaLogicaAsignacionDePerfiles\bin\Debug\CapaLogicaAsignacionDePerfiles.dll
+D:\Valery\Documents\Universidad\Analisis\Fase 2\SEGURIDAD\New folder\Seguridad Estandares\Seguridad Estandares\CapaDatosAsignacionDePerfiles\CapaLogicaAsignacionDePerfiles\bin\Debug\CapaLogicaAsignacionDePerfiles.pdb
+D:\Valery\Documents\Universidad\Analisis\Fase 2\SEGURIDAD\New folder\Seguridad Estandares\Seguridad Estandares\CapaDatosAsignacionDePerfiles\CapaLogicaAsignacionDePerfiles\bin\Debug\CapaDatosAsignacionDePerfiles.dll
+D:\Valery\Documents\Universidad\Analisis\Fase 2\SEGURIDAD\New folder\Seguridad Estandares\Seguridad Estandares\CapaDatosAsignacionDePerfiles\CapaLogicaAsignacionDePerfiles\bin\Debug\RetornoCadenaDeConexion.dll
+D:\Valery\Documents\Universidad\Analisis\Fase 2\SEGURIDAD\New folder\Seguridad Estandares\Seguridad Estandares\CapaDatosAsignacionDePerfiles\CapaLogicaAsignacionDePerfiles\bin\Debug\CapaDatosAsignacionDePerfiles.pdb
+D:\Valery\Documents\Universidad\Analisis\Fase 2\SEGURIDAD\New folder\Seguridad Estandares\Seguridad Estandares\CapaDatosAsignacionDePerfiles\CapaLogicaAsignacionDePerfiles\bin\Debug\RetornoCadenaDeConexion.pdb
+D:\Valery\Documents\Universidad\Analisis\Fase 2\SEGURIDAD\New folder\Seguridad Estandares\Seguridad Estandares\CapaDatosAsignacionDePerfiles\CapaLogicaAsignacionDePerfiles\obj\Debug\CapaLogicaAsignacionDePerfiles.csprojResolveAssemblyReference.cache
+D:\Valery\Documents\Universidad\Analisis\Fase 2\SEGURIDAD\New folder\Seguridad Estandares\Seguridad Estandares\CapaDatosAsignacionDePerfiles\CapaLogicaAsignacionDePerfiles\obj\Debug\CapaLogicaAsignacionDePerfiles.dll
+D:\Valery\Documents\Universidad\Analisis\Fase 2\SEGURIDAD\New folder\Seguridad Estandares\Seguridad Estandares\CapaDatosAsignacionDePerfiles\CapaLogicaAsignacionDePerfiles\obj\Debug\CapaLogicaAsignacionDePerfiles.pdb
+C:\Users\vhjim\Desktop\Seguridad final\Seguridad final\CapaDatosAsignacionDePerfiles\CapaLogicaAsignacionDePerfiles\bin\Debug\CapaLogicaAsignacionDePerfiles.dll
+C:\Users\vhjim\Desktop\Seguridad final\Seguridad final\CapaDatosAsignacionDePerfiles\CapaLogicaAsignacionDePerfiles\bin\Debug\CapaLogicaAsignacionDePerfiles.pdb
+C:\Users\vhjim\Desktop\Seguridad final\Seguridad final\CapaDatosAsignacionDePerfiles\CapaLogicaAsignacionDePerfiles\bin\Debug\CapaDatosAsignacionDePerfiles.dll
+C:\Users\vhjim\Desktop\Seguridad final\Seguridad final\CapaDatosAsignacionDePerfiles\CapaLogicaAsignacionDePerfiles\bin\Debug\RetornoCadenaDeConexion.dll
+C:\Users\vhjim\Desktop\Seguridad final\Seguridad final\CapaDatosAsignacionDePerfiles\CapaLogicaAsignacionDePerfiles\bin\Debug\CapaDatosAsignacionDePerfiles.pdb
+C:\Users\vhjim\Desktop\Seguridad final\Seguridad final\CapaDatosAsignacionDePerfiles\CapaLogicaAsignacionDePerfiles\bin\Debug\RetornoCadenaDeConexion.pdb
+C:\Users\vhjim\Desktop\Seguridad final\Seguridad final\CapaDatosAsignacionDePerfiles\CapaLogicaAsignacionDePerfiles\obj\Debug\CapaLogicaAsignacionDePerfiles.csprojResolveAssemblyReference.cache
+C:\Users\vhjim\Desktop\Seguridad final\Seguridad final\CapaDatosAsignacionDePerfiles\CapaLogicaAsignacionDePerfiles\obj\Debug\CapaLogicaAsignacionDePerfiles.dll
+C:\Users\vhjim\Desktop\Seguridad final\Seguridad final\CapaDatosAsignacionDePerfiles\CapaLogicaAsignacionDePerfiles\obj\Debug\CapaLogicaAsignacionDePerfiles.pdb
