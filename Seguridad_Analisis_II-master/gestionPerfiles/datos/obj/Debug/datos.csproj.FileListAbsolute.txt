@@ -1,0 +1,12 @@
+C:\Users\josea\Documents\Visual Studio 2015\Tests\1. OBJETO COMUN\gestionPerfiles\datos\bin\Debug\datos.dll
+C:\Users\josea\Documents\Visual Studio 2015\Tests\1. OBJETO COMUN\gestionPerfiles\datos\bin\Debug\datos.pdb
+C:\Users\josea\Documents\Visual Studio 2015\Tests\1. OBJETO COMUN\gestionPerfiles\datos\obj\Debug\datos.dll
+C:\Users\josea\Documents\Visual Studio 2015\Tests\1. OBJETO COMUN\gestionPerfiles\datos\obj\Debug\datos.pdb
+C:\Users\josea\Documents\Visual Studio 2015\Tests\1. OBJETO COMUN\gestionPerfiles\datos\bin\Debug\RetornoCadenaDeConexion.dll
+C:\Users\josea\Documents\Visual Studio 2015\Tests\1. OBJETO COMUN\gestionPerfiles\datos\bin\Debug\RetornoCadenaDeConexion.pdb
+C:\Users\josea\Documents\Visual Studio 2015\Tests\1. OBJETO COMUN\gestionPerfiles\datos\obj\Debug\datos.csprojResolveAssemblyReference.cache
+C:\Users\josea\Documents\Visual Studio 2015\Tests\1. OBJETO COMUN\DEV\gestionPerfiles\datos\bin\Debug\datos.dll
+C:\Users\josea\Documents\Visual Studio 2015\Tests\1. OBJETO COMUN\DEV\gestionPerfiles\datos\bin\Debug\datos.pdb
+C:\Users\josea\Documents\Visual Studio 2015\Tests\1. OBJETO COMUN\DEV\gestionPerfiles\datos\obj\Debug\datos.csprojResolveAssemblyReference.cache
+C:\Users\josea\Documents\Visual Studio 2015\Tests\1. OBJETO COMUN\DEV\gestionPerfiles\datos\obj\Debug\datos.dll
+C:\Users\josea\Documents\Visual Studio 2015\Tests\1. OBJETO COMUN\DEV\gestionPerfiles\datos\obj\Debug\datos.pdb

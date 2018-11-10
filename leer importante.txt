@@ -1,0 +1,1 @@
+el archivo ayuda.chm debe de ir en el disco local c:/

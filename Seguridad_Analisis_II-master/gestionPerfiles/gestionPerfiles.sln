@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gestionPerfiles", "gestionPerfiles\gestionPerfiles.csproj", "{79064A57-4902-4BC2-B867-CB35BEF924BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logica", "logica\logica.csproj", "{FCD33378-281E-4746-B99E-3144FD91CD8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "datos", "datos\datos.csproj", "{86EB0BCB-F6D7-4A6A-87BE-6DAA126B9C36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79064A57-4902-4BC2-B867-CB35BEF924BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79064A57-4902-4BC2-B867-CB35BEF924BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79064A57-4902-4BC2-B867-CB35BEF924BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79064A57-4902-4BC2-B867-CB35BEF924BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCD33378-281E-4746-B99E-3144FD91CD8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD33378-281E-4746-B99E-3144FD91CD8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD33378-281E-4746-B99E-3144FD91CD8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD33378-281E-4746-B99E-3144FD91CD8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86EB0BCB-F6D7-4A6A-87BE-6DAA126B9C36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86EB0BCB-F6D7-4A6A-87BE-6DAA126B9C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86EB0BCB-F6D7-4A6A-87BE-6DAA126B9C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86EB0BCB-F6D7-4A6A-87BE-6DAA126B9C36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
